@@ -112,8 +112,8 @@ nav {
     text-shadow: 3px 3px 5px grey;
 }
 @media only screen and (max-width: 500px) {
-    body {
-      letter-spacing: 5.8px;
+    #main-text-wrapper h1{
+      letter-spacing: 3.8px !important;
     }
   }
 #main-text-wrapper h1 span{
